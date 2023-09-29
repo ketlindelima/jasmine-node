@@ -1,1 +1,1 @@
-# jasmine-node
+# jasmine-node [![Build Status](https://app.travis-ci.com/ketlindelima/jasmine-node.svg?branch=master)](https://app.travis-ci.com/ketlindelima/jasmine-node)
